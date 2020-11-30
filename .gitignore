@@ -6,3 +6,8 @@ MANIFEST
 data/
 *.komodoproject
 *.kpf
+.DS_Store
+*.code-workspace
+*.json
+*.ndjson
+*.pem
